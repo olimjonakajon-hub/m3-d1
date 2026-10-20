@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\m3-d1\m3-d1\bin\Debug\net10.0\m3-d1.exe
+C:\Users\HP\Desktop\m3-d1\m3-d1\bin\Debug\net10.0\m3-d1.deps.json
+C:\Users\HP\Desktop\m3-d1\m3-d1\bin\Debug\net10.0\m3-d1.runtimeconfig.json
+C:\Users\HP\Desktop\m3-d1\m3-d1\bin\Debug\net10.0\m3-d1.dll
+C:\Users\HP\Desktop\m3-d1\m3-d1\bin\Debug\net10.0\m3-d1.pdb
+C:\Users\HP\Desktop\m3-d1\m3-d1\obj\Debug\net10.0\m3-d1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\m3-d1\m3-d1\obj\Debug\net10.0\m3-d1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\m3-d1\m3-d1\obj\Debug\net10.0\m3-d1.AssemblyInfo.cs
+C:\Users\HP\Desktop\m3-d1\m3-d1\obj\Debug\net10.0\m3-d1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\m3-d1\m3-d1\obj\Debug\net10.0\m3-d1.dll
+C:\Users\HP\Desktop\m3-d1\m3-d1\obj\Debug\net10.0\refint\m3-d1.dll
+C:\Users\HP\Desktop\m3-d1\m3-d1\obj\Debug\net10.0\m3-d1.pdb
+C:\Users\HP\Desktop\m3-d1\m3-d1\obj\Debug\net10.0\m3-d1.genruntimeconfig.cache
+C:\Users\HP\Desktop\m3-d1\m3-d1\obj\Debug\net10.0\ref\m3-d1.dll
